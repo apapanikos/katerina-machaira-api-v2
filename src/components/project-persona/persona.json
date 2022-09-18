@@ -1,0 +1,53 @@
+{
+  "collectionName": "components_project_persona_personas",
+  "info": {
+    "displayName": "persona",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "age": {
+      "type": "string",
+      "required": true
+    },
+    "education": {
+      "type": "string",
+      "required": true
+    },
+    "family": {
+      "type": "string",
+      "required": true
+    },
+    "occupation": {
+      "type": "string",
+      "required": true
+    },
+    "goals": {
+      "type": "richtext",
+      "required": true
+    },
+    "frustrations": {
+      "type": "richtext",
+      "required": true
+    },
+    "avatar": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
