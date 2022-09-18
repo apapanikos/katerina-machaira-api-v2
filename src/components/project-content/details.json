@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_project_content_details",
+  "info": {
+    "displayName": "details",
+    "icon": "info-circle"
+  },
+  "options": {},
+  "attributes": {
+    "product_desc": {
+      "type": "text",
+      "required": true
+    },
+    "problem": {
+      "type": "text",
+      "required": true
+    },
+    "goal": {
+      "type": "text",
+      "required": true
+    },
+    "responsibilities": {
+      "type": "richtext",
+      "required": true
+    },
+    "start_date": {
+      "type": "date",
+      "required": true
+    },
+    "end_date": {
+      "type": "date",
+      "required": true
+    },
+    "target_audience": {
+      "type": "text",
+      "required": true
+    },
+    "my_role": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
