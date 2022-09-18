@@ -90,6 +90,11 @@
       "repeatable": true,
       "component": "project-next-steps.next-steps",
       "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "required": true,
+      "targetField": "title"
     }
   }
 }
