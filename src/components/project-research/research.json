@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_project_research_research",
+  "info": {
+    "displayName": "research",
+    "icon": "search"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text",
+      "required": true
+    },
+    "pain_points": {
+      "displayName": "pain_points",
+      "type": "component",
+      "repeatable": true,
+      "component": "project-research.pain-points",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_project_research_pain_points",
+  "info": {
+    "displayName": "pain_points",
+    "icon": "list-ol"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
