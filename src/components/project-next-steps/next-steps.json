@@ -2,11 +2,12 @@
   "collectionName": "components_project_next_steps_next_steps",
   "info": {
     "displayName": "next_steps",
-    "icon": "step-forward"
+    "icon": "step-forward",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "text": {
+    "value": {
       "type": "text",
       "required": true
     }
