@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_project_mockups_mockups",
+  "info": {
+    "displayName": "mockups",
+    "icon": "paint-roller"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text",
+      "required": true
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}

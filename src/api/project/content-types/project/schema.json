@@ -37,6 +37,59 @@
       "repeatable": false,
       "component": "project-content.details",
       "required": true
+    },
+    "research": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-research.research"
+    },
+    "persona": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-persona.persona"
+    },
+    "ideation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-ideation.ideation"
+    },
+    "wireframes": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-wireframes.wireframes"
+    },
+    "low_fidelity_prototypes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project-low-fidelity-prototypes.low-fidelity-prototypes"
+    },
+    "usability_study": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-usability-study.usability-study"
+    },
+    "mockups": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-mockups.mockups",
+      "required": true
+    },
+    "high_fidelity_prototypes": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-high-fidelity-prototypes.high-fidelity-prototypes",
+      "required": true
+    },
+    "takewaways": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project-takeaways.takeaways"
+    },
+    "next_steps": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project-next-steps.next-steps",
+      "required": true
     }
   }
 }

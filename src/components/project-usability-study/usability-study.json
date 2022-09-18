@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_project_usability_study_usability_studies",
+  "info": {
+    "displayName": "usability_study",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text",
+      "required": true
+    },
+    "first_round_findings": {
+      "displayName": "first_round_findings",
+      "type": "component",
+      "repeatable": true,
+      "component": "project-usability-study.first-round-findings",
+      "required": true
+    },
+    "second_round_findings": {
+      "displayName": "second_round_findings",
+      "type": "component",
+      "repeatable": true,
+      "component": "project-usability-study.second-round-findings",
+      "required": true
+    }
+  }
+}

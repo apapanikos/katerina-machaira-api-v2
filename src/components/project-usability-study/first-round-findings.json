@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_project_usability_study_first_round_findings",
+  "info": {
+    "displayName": "first_round_findings"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "text"
+    }
+  }
+}

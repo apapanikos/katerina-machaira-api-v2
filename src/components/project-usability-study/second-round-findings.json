@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_project_usability_study_second_round_findings",
+  "info": {
+    "displayName": "second_round_findings"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

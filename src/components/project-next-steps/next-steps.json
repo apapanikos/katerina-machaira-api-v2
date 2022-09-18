@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_project_next_steps_next_steps",
+  "info": {
+    "displayName": "next_steps",
+    "icon": "step-forward"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
