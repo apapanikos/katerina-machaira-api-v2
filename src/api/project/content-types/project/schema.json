@@ -58,11 +58,6 @@
       "repeatable": false,
       "component": "project-wireframes.wireframes"
     },
-    "low_fidelity_prototypes": {
-      "type": "component",
-      "repeatable": false,
-      "component": "project-low-fidelity-prototypes.low-fidelity-prototypes"
-    },
     "usability_study": {
       "type": "component",
       "repeatable": false,
