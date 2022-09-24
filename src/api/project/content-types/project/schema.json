@@ -36,7 +36,7 @@
       "type": "component",
       "repeatable": false,
       "component": "project-content.details",
-      "required": true
+      "required": false
     },
     "research": {
       "type": "component",
@@ -67,7 +67,7 @@
       "type": "component",
       "repeatable": false,
       "component": "project-mockups.mockups",
-      "required": true
+      "required": false
     },
     "takewaways": {
       "type": "component",
@@ -78,7 +78,7 @@
       "type": "component",
       "repeatable": true,
       "component": "project-next-steps.next-steps",
-      "required": true
+      "required": false
     },
     "slug": {
       "type": "uid",
@@ -96,7 +96,7 @@
       "type": "component",
       "repeatable": false,
       "component": "project-hf-prototypes.hf-prototypes",
-      "required": true
+      "required": false
     }
   }
 }
