@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_project_lf_prototypes_lf_prototypes",
+  "info": {
+    "displayName": "lf-prototypes",
+    "icon": "paint-brush"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text",
+      "required": true
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}

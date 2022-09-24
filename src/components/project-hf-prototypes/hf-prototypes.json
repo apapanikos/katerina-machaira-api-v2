@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_project_hf_prototypes_hf_prototypes",
+  "info": {
+    "displayName": "hf-prototypes",
+    "icon": "paint-roller"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "text"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}

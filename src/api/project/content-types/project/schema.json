@@ -84,6 +84,19 @@
       "type": "uid",
       "required": true,
       "targetField": "title"
+    },
+    "lf_prototypes": {
+      "displayName": "lf-prototypes",
+      "type": "component",
+      "repeatable": false,
+      "component": "project-lf-prototypes.lf-prototypes"
+    },
+    "hf_prototypes": {
+      "displayName": "hf-prototypes",
+      "type": "component",
+      "repeatable": false,
+      "component": "project-hf-prototypes.hf-prototypes",
+      "required": true
     }
   }
 }
