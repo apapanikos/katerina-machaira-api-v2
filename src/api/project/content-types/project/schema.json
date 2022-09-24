@@ -69,12 +69,6 @@
       "component": "project-mockups.mockups",
       "required": true
     },
-    "high_fidelity_prototypes": {
-      "type": "component",
-      "repeatable": false,
-      "component": "project-high-fidelity-prototypes.high-fidelity-prototypes",
-      "required": true
-    },
     "takewaways": {
       "type": "component",
       "repeatable": false,
