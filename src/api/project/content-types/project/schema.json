@@ -60,7 +60,7 @@
     },
     "low_fidelity_prototypes": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "project-low-fidelity-prototypes.low-fidelity-prototypes"
     },
     "usability_study": {
