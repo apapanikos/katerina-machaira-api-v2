@@ -2,7 +2,8 @@
   "collectionName": "components_project_persona_personas",
   "info": {
     "displayName": "persona",
-    "icon": "address-card"
+    "icon": "address-card",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -28,7 +29,7 @@
     },
     "occupation": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "goals": {
       "type": "richtext",
@@ -39,15 +40,15 @@
       "required": true
     },
     "avatar": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false,
-      "required": true
+      ]
     }
   }
 }

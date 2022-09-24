@@ -69,7 +69,7 @@
       "component": "project-mockups.mockups",
       "required": false
     },
-    "takewaways": {
+    "takeaways": {
       "type": "component",
       "repeatable": false,
       "component": "project-takeaways.takeaways"
